@@ -15,7 +15,7 @@
     "expo": "~53.0.19",
     "expo-linear-gradient": "~12.7.2",
     "expo-status-bar": "~1.11.1",
-    "firebase": "^10.9.0",
+    "firebase": "^12.13.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.82.1",
